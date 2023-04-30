@@ -3,6 +3,10 @@ def print_2(msg):
 
 
 
+def test2():
+    print("kljk")
+
+
 if __name__ == '__main__':
     print_2("Hello Sahar")
 
