@@ -10,4 +10,4 @@ if __name__ == '__main__':
     print_2("hiii")
 
     print_2("hi aya")
-    print_2("kuhdshg
+    print_2("kuhdshg ")
