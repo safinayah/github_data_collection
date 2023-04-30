@@ -1,6 +1,6 @@
-print("Hello Sahar")
+if __name__ == '__main__':
+    print("Hello Sahar")
 
-print("hiii")
+    print("hiii")
 
-
-print("kuhdshgfdjyh")
+    print("kuhdshgfdjyh")
