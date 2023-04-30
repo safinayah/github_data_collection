@@ -1,6 +1,12 @@
-print("Hello Sahar")
+def print_2(msg):
+    print(msg)
 
-print("hiii")
 
 
-print("kuhdshgfdjyh")
+if __name__ == '__main__':
+    print_2("Hello Sahar")
+
+    print_2("hiii")
+
+    print_2("hi aya")
+    print_2("kuhdshgfdjyh")
